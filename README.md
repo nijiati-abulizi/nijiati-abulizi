@@ -31,7 +31,7 @@ With a proven track record of driving efficiency, accuracy, and adoption across 
 
 ### 6. [**Milk Quality Classifier**](https://github.com/nijiati-abulizi/milk_quality_prediction)
 - Developed and evaluated multiple classification models; Random Forest delivered top performance.
-- **Impact:** Identified **key chemical predictors** and optimized classification pipeline for food quality assurance.
+- **Impact:** Identified **key predictors** and optimized classification pipeline for food quality assurance.
 
 ### 7. [**YelpViz BI App**](https://github.com/nijiati-abulizi/yelp_api_wrapper)
 - Built a business review analytics app using R, ggplot2, Plotly, and the Yelp API.
