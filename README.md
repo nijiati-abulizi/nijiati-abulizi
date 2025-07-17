@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm **Nijiati Abulizi**, a data scientist with a backgroun
 Built a multiclass XGBoost classifier to categorize cancer subtypes based on high-dimensional DNA methylation and genomic features. In parallel, developed three Random Survival Forest (RSF) models to predict patient survival outcomes using both R (randomForestSRC) and Python (scikit-survival) implementations. Deployment pipelines were constructed in Python for streamlined use.
 To enhance interpretability, performed SHAP (SHapley Additive exPlanations) analysis to rank and visualize feature importance. Additionally, conducted pathway enrichment analysis on top-ranked methylation markers to identify biological pathways associated with poor prognosis and cancer progression.
 
-### 2. **Benchmarking and Predicting Mental Health Scores**
+### 2. **Benchmarking and Predicting Mental Health Scores (Anxity & Depression)**
 This capstone project, done in collaboration with Greenspace Health, focuses on predicting and benchmarking PHQ-9 scores over time. Models such as Generalized Additive Models (GAM), XGBoost, and Temporal Convolutional Networks (TCNs) were used to enhance the accuracy of mental health outcome predictions and provide better insights into patient progress.
 
 ### 3. [**Comparative Evaluation of Pretrained Models for Lung Disease Classification**](https://github.com/nijiati-abulizi/cnn_lung_disease)
