@@ -37,6 +37,6 @@ Feel free to explore each repository to see code, notebooks, dashboards, and mor
 
 🔗 **Website:** [nijiati-abulizi.com](https://nijiati-abulizi.com)  
 📫 **Email:** nijiati.abulizi@ubc.ca  
-🎥 **YouTube:** [BitSize Learning](https://www.youtube.com/@BitSizeLearning)
+🎥 **YouTube:** [BitSize Learning](https://www.youtube.com/@LearnBitSize)
 
 ---
