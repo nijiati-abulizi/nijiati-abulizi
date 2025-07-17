@@ -93,7 +93,7 @@ ETL • Feature Engineering • Dimensionality Reduction • Time Series • Exp
 - 🌐 **Website:** [nijiati-abulizi.com](https://nijiati-abulizi.com)  
 - 📫 **Email:** nijiati.abulizi@ubc.ca  
 - 🎥 **YouTube:** [BitSize Learning](https://www.youtube.com/@LearnBitSize)  
-- 💼 **LinkedIn:** [linkedin.com/in/nijiati-abulizi](https://www.linkedin.com/in/nijiati-abulizi)
+- 💼 **LinkedIn:** [linkedin.com/in/nijiati-abulizi](www.linkedin.com/in/nijiati-abulizi-na2745)
 
 ---
 
