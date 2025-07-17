@@ -5,18 +5,18 @@ Welcome to my GitHub! I'm **Nijiati Abulizi**, a data scientist with a backgroun
 ---
 
 ## 🔬 Projects
+### 1. [**Methylation-Based Survival Modeling**](https://github.com/nijiati-abulizi/Glioma)
+Built a multiclass XGBoost classifier to categorize cancer subtypes based on high-dimensional DNA methylation and genomic features. In parallel, developed three Random Survival Forest (RSF) models to predict patient survival outcomes using both R (randomForestSRC) and Python (scikit-survival) implementations. Deployment pipelines were constructed in Python for streamlined use.
+To enhance interpretability, performed SHAP (SHapley Additive exPlanations) analysis to rank and visualize feature importance. Additionally, conducted pathway enrichment analysis on top-ranked methylation markers to identify biological pathways associated with poor prognosis and cancer progression.
 
-### 1. **Benchmarking and Predicting Mental Health Scores**
+### 2. **Benchmarking and Predicting Mental Health Scores**
 This capstone project, done in collaboration with Greenspace Health, focuses on predicting and benchmarking PHQ-9 scores over time. Models such as Generalized Additive Models (GAM), XGBoost, and Temporal Convolutional Networks (TCNs) were used to enhance the accuracy of mental health outcome predictions and provide better insights into patient progress.
 
-### 2. [**Comparative Evaluation of Pretrained Models for Lung Disease Classification**](https://github.com/nijiati-abulizi/cnn_lung_disease)
+### 3. [**Comparative Evaluation of Pretrained Models for Lung Disease Classification**](https://github.com/nijiati-abulizi/cnn_lung_disease)
 This project explores deep learning models for classifying lung diseases using chest X-ray images. It compares VGG16 with EfficientNetV2 models and evaluates the effect of optimizers like Adam and AdamW. The objective is to improve diagnostic accuracy across multiple disease classes.
 
-### 3. [**Understanding Diabetes Risk**](https://github.com/nijiati-abulizi/diabetes_prediction)
+### 4. [**Understanding Diabetes Risk**](https://github.com/nijiati-abulizi/diabetes_prediction)
 Analyzed health data from 250,000+ individuals using machine learning models to uncover key risk factors for diabetes. The findings support better health policy decision-making and promote preventive care based on lifestyle and clinical indicators.
-
-### 4. [**Methylation-Based Survival Modeling**](https://github.com/nijiati-abulizi/Glioma)
-Built Cox and Random Survival Forest models to predict patient survival outcomes using methylation and genomic features. Conducted SHAP analysis and pathway enrichment to identify critical biomarkers for cancer progression.
 
 ### 5. [**Discover Your Music Taste Dashboard**](https://github.com/nijiati-abulizi/spotify_dashboard)
 An interactive Streamlit dashboard built with Spotify API, allowing users to explore their music preferences, identify top genres, and visualize audio features like tempo, energy, and danceability.
