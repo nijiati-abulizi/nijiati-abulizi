@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Welcome to my GitHub! I'm **Nijiati Abulizi**, an analytical data scientist with a background in **biochemistry and molecular biology**. I specialize in building **explainable machine learning models**, automating **reproducible data pipelines**, and delivering insights that support **data-informed decisions** across healthcare, education, and research.
+Welcome to my GitHub! I'm **Nijiati Abulizi**, a **data scientist** with a background in **biochemistry and molecular biology**. I specialize in building **explainable machine learning models**, automating **reproducible data pipelines**, and delivering insights that support **data-informed decisions** across healthcare, education, and research.
 
 With a proven track record of driving efficiency, accuracy, and adoption across diverse projects, I use data to empower teams, accelerate discovery, and improve outcomes.
 
