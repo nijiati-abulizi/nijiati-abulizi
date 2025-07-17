@@ -19,7 +19,7 @@ This project explores deep learning models for classifying lung diseases using c
 Analyzed health data from 250,000+ individuals using machine learning models to uncover key risk factors for diabetes. The findings support better health policy decision-making and promote preventive care based on lifestyle and clinical indicators.
 
 ### 5. [**Discover Your Music Taste Dashboard**](https://github.com/nijiati-abulizi/spotify_dashboard)
-An interactive Streamlit dashboard built with Spotify API, allowing users to explore their music preferences, identify top genres, and visualize audio features like tempo, energy, and danceability.
+An interactive Python Dash dashboard built with Spotify API, allowing users to explore their music preferences, identify top genres, and visualize audio features like tempo, energy, and danceability.
 
 ### 6. [**Milk Quality Prediction**](https://github.com/nijiati-abulizi/milk_quality_prediction)
 Developed classifiers such as Logistic Regression, SVM, and Random Forest to predict milk quality based on chemical attributes. Random Forest yielded the highest accuracy, with detailed feature importance insights.
