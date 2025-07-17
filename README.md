@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm **Nijiati Abulizi**, a data scientist with a backgroun
 
 ### 1. **Benchmarking and Predicting Mental Health Scores**
 This capstone project, done in collaboration with Greenspace Health, focuses on predicting and benchmarking PHQ-9 scores over time. Models such as Generalized Additive Models (GAM), XGBoost, and Temporal Convolutional Networks (TCNs) were used to enhance the accuracy of mental health outcome predictions and provide better insights into patient progress.
+🔒 Due to the use of sensitive health data and a non-disclosure agreement (NDA) with Greenspace Health, the full code and dataset are not publicly available. Access may be granted upon request for academic or professional purposes — please reach out via email.
 
 ### 2. **Comparative Evaluation of Pretrained Models for Lung Disease Classification**
 This project explores deep learning models for classifying lung diseases using chest X-ray images. It compares VGG16 with EfficientNetV2 models and evaluates the effect of optimizers like Adam and AdamW. The objective is to improve diagnostic accuracy across multiple disease classes.
